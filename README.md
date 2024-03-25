@@ -5,9 +5,8 @@
 - 📫 How to reach me just sent a message!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--🫶🏻 I like to earn but im still a newb, We all make mistakes.
-    so be kind when you have an opinion about my work and give som solid feedback🫶🏻
+- 🫶🏻 I like to earn but im still a newb, We all make mistakes.
+    so be kind when you have an opinion about my work and give some solid feedback
 
 <!---
 Floranta/Floranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
